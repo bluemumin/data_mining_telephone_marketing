@@ -6,8 +6,8 @@ kaggle에 있는 원본 데이터 : https://www.kaggle.com/yufengsui/portuguese-
 
 kaggle에 올린 시각화 노트북 : https://www.kaggle.com/bluemumin/bank-data-eda
 
-- 참여자
- <p> 김경록(R, SAS 코드 작성 및 보고서 작성), 박권수(ppt 제작 및 파생변수 생성) </p>
+- 참여 항목
+ <p> 김경록(R, SAS 코드 작성 및 보고서 작성), 팀원(ppt 제작, 파생변수 아이디어 제공) </p>
 
 - 사용언어 / 핵심 라이브러리
  <p> SAS, R / ggplot2, dplyr 등 </p>
